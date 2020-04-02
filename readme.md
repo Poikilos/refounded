@@ -16,21 +16,27 @@ Warcraft III's online "Custom Maps" system. Some full games include:
   offense games.
   - DoTA led to DoTA 2 and League of Legends.
 - Hardcore/survival games (games with detailed gameplay and character
-  and world attributes) such as [Bug Evolution](https://www.epicwar.com/maps/4043/), [Ice Troll Tribe
-  Wars](https://www.epicwar.com/maps/19469/), Real Life (and easier
-  versions such as [Real Life [for Morons]](https://www.epicwar.com/maps/1252/) and
-  [Spellcraft](https://www.epicwar.com/maps/487/)
-- Hero arenas such as [Angel Arena X](https://www.epicwar.com/maps/8346/)
-  [MonstAr.Arena](https://www.epicwar.com/maps/139667/)
-- OpenRPG and other large RPGs such as [Fantasy
-  Life](https://www.epicwar.com/maps/91725/), [Mystica
-  ORPG](https://www.epicwar.com/maps/7577/), [Legends Open RPG](https://www.epicwar.com/maps/130439/) and [Ragnarok RPG](https://www.epicwar.com/maps/80733/)
-- Single-goal "party games" such as Assassins,
-  [Pyramid Escape](https://www.epicwar.com/maps/165011/) (and other
-  "Escape" games), [Kodo Tag](https://www.epicwar.com/maps/103272/)
-  [Missile War](https://www.epicwar.com/maps/58603/), [I
-  Wolves vs Sheep (and other "vs Sheep" games),
-  [Vampirism](https://www.epicwar.com/maps/51266/).
+  and world attributes) such as:
+  - [Bug Evolution](https://www.epicwar.com/maps/4043/)
+  - [Ice Troll Tribe Wars](https://www.epicwar.com/maps/19469/)
+  - Real Life (and easier versions such as [Real Life [for Morons]](https://www.epicwar.com/maps/1252/)
+  - [Spellcraft](https://www.epicwar.com/maps/487/)
+- Hero arena games such as:
+  - [Angel Arena X](https://www.epicwar.com/maps/8346/)
+  - [MonstAr.Arena](https://www.epicwar.com/maps/139667/)
+- OpenRPG and other large RPGs such as:
+  - [Fantasy Life](https://www.epicwar.com/maps/91725/)
+  - [Mystica ORPG](https://www.epicwar.com/maps/7577/)
+  - [Legends Open RPG](https://www.epicwar.com/maps/130439/)
+  - [Ragnarok RPG](https://www.epicwar.com/maps/80733/)
+- Single-goal "party games" such as:
+  - Assassins
+  - [Pyramid Escape](https://www.epicwar.com/maps/165011/) (and other
+    "Escape" games)
+  - [Kodo Tag](https://www.epicwar.com/maps/103272/)
+  - [Missile War](https://www.epicwar.com/maps/58603/)
+  - Wolves vs Sheep (and other "vs Sheep" games)
+  - [Vampirism](https://www.epicwar.com/maps/51266/)
 - Tower Defense (and various variations, which seem to have spawned or
   popularized the tower defense genre itself).
 - Many clone games, and others:
