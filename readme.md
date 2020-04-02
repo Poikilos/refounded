@@ -18,7 +18,7 @@ Warcraft III's online "Custom Maps" system. Some full games include:
 - Hardcore/survival games (games with detailed gameplay and character
   and world attributes) such as [Bug Evolution](https://www.epicwar.com/maps/4043/), [Ice Troll Tribe
   Wars](https://www.epicwar.com/maps/19469/), Real Life (and easier
-  versions such as [Real Life [for Morons](https://www.epicwar.com/maps/1252/) and
+  versions such as [Real Life [for Morons]](https://www.epicwar.com/maps/1252/) and
   [Spellcraft](https://www.epicwar.com/maps/487/)
 - Hero arenas such as [Angel Arena X](https://www.epicwar.com/maps/8346/)
   [MonstAr.Arena](https://www.epicwar.com/maps/139667/)
