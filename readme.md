@@ -40,6 +40,11 @@ Warcraft III's online "Custom Maps" system. Some full games include:
 Be aware that using your "maps" (full games) on Warcraft 3: Reforged
 transfers all applicable rights to Blizzard as per the Terms of Service!
 
+
+## Related projects
+- jass2 (MIT Licensed) "Jass2 interpreter for exercise purpose"
+
+
 ## JASS projects with license issues
 (These projects have licenses that differ from MIT, so changing
 this project to match a different license may be the best way forward.)
@@ -78,8 +83,6 @@ dependencies.)
 
 
 ## JASS projects without licenses
-- jass2 "Jass2 interpreter for exercise purpose"
-  - [The license is missing](https://github.com/hackwaly/jass2/issues/2)
 - pjass-chs
   "A lightweight and fast Jass2 parser for bison/yacc"
   - This could be ported to Python and use PLY (Python Lex-Yacc).
