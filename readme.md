@@ -48,8 +48,9 @@ transfers all applicable rights to Blizzard as per the Terms of Service!
 
 
 ## Related projects
-- jass2 (MIT Licensed) "Jass2 interpreter for exercise purpose"
-
+- jass2 (MIT) "Jass2 interpreter for exercise purpose"
+- w3xparser (Apache-2.0)
+  - https://github.com/actboy168/w3xparser
 
 ## JASS projects with license issues
 (These projects have licenses that differ from MIT, so changing
