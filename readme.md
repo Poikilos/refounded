@@ -51,21 +51,55 @@ transfers all applicable rights to Blizzard as per the Terms of Service!
 - jass2 (MIT) "Jass2 interpreter for exercise purpose"
 - w3xparser (Apache-2.0)
   - https://github.com/actboy168/w3xparser
+- MPQExtractor (MIT) https://github.com/Kanma/MPQExtractor
+- pympq (BSD 2-Clause) https://github.com/eagleflo/mpyq
+- python-mpq (MIT) https://github.com/jleclanche/python-mpq
+  "StormLib-based Python MPQ bindings"
+  - requires StormLib (MIT) https://github.com/ladislav-zezula/StormLib
+- BananaMPQ (MIT) https://github.com/sgraf812/BananaMpq
+  "Extracting WoW's geometry data reliably"
+- https://github.com/chadkila/Blizzard-Hash-Map
+
+### Node.js
+- mpq-extract (MIT) https://github.com/doggan/mpq-extract
+  - pulls mech-mpq
+    - requires the C++ version of StormLib
+- ghost.js https://github.com/w3gh/ghost.js
+  "Try to port Warcraft3 Game Host Ghost++ to js"
+
+### Rust
+- ceres-mpq (MIT) https://github.com/ceres-wc3/ceres-mpq
+  "A pure-rust implementation of an MPQ archive reader and builder"
+
 
 ## JASS projects with license issues
 (These projects have licenses that differ from MIT, so changing
 this project to match a different license may be the best way forward.)
+
+### C++
 - JASS Tools (sourceforge project)
   https://sourceforge.net/projects/jass/ is a project that contains some
   "tools for parsing and analyzing the JASS scripting language, which
   used for scripting Maps and AI files in Blizzard Entertainment's (R)
   Warcraft III (R)," notably:
-  - pjass (BSD license)
+  - pjass (BSD 2-Clause)
     https://sourceforge.net/projects/jass/files/a%20pjass/
     "currently the best JASS syntax checker" according to
     http://jass.sourceforge.net/ (October 26, 2005).
     "To test this program:
-    `pjass common.j common.ai Blizzard.j`"
+    `pjass common.j common.ai Blizzard.j`" And yet, pjass is also
+    below.
+- pjass (BSD 2-Clause) https://github.com/lep/pjass
+  "A lightweight and fast Jass2 parser for bison/yacc"
+  - This could be ported to Python and use PLY (Python Lex-Yacc).
+  - translations: pjass-chs
+    - [pjass-chs is a Chinese translation, but otherwise is the same
+      as pjass,
+      apparently.](https://github.com/actboy168/pjass-chs/issues/1)
+
+### PHP
+- PHP-MPQ (GPL-3.0) https://github.com/cipherxof/PHP-MPQ
+
 
 
 ### JASS projects with incompatible functions
@@ -88,10 +122,21 @@ dependencies.)
   JASS" with code completion (with function documentation), syntax
   highlighting, multiple script loading, and syntax checking.
 
+## JASS projects with no license
+- Blizzard-Hash-Map https://github.com/chadkila/Blizzard-Hash-Map/issues/1
+- Wc3MapWorker https://github.com/rufreakde/Wc3MapWorker/issues/1
+  - TypeScript
+- php-mpq https://github.com/Rogiel/php-mpq/issues/1
+  "A PHP library for MPQ reading"
+  - PHP
+- war3mappreviewextractor-php https://github.com/an-zie/war3mappreviewextractor-php/issues/1
+  - PHP
+- mpqtools https://github.com/limitedWish/mpqtools/issues/1
+  "Inflate .mpq archives and convert .blp textures to ordinary format"
+  - C
 
-## JASS projects without licenses
-- pjass-chs
-  "A lightweight and fast Jass2 parser for bison/yacc"
-  - This could be ported to Python and use PLY (Python Lex-Yacc).
-  - [There is no permission to use the
-    code](https://github.com/actboy168/pjass-chs/issues/1)
+## JASS projects with unknown purposes
+- LangUMS fork of stormlib https://github.com/LangUMS/stormlib/issues/1
+- https://github.com/jleclanche/mpqt/tree/master/mpqt
+  - Python
+  - archived
