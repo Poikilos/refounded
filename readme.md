@@ -99,8 +99,11 @@ this project to match a different license may be the best way forward.)
 
 ### PHP
 - PHP-MPQ (GPL-3.0) https://github.com/cipherxof/PHP-MPQ
-
-
+- php-mpq (BSD 2-Clause) https://github.com/Rogiel/php-mpq
+  "A PHP library for MPQ reading"
+  - PHP
+  - The author added the license 2020-04-03:
+    https://github.com/Rogiel/php-mpq/issues/1
 
 ### JASS projects with incompatible functions
 (These projects may be too far from the design goals to become
@@ -126,9 +129,6 @@ dependencies.)
 - Blizzard-Hash-Map https://github.com/chadkila/Blizzard-Hash-Map/issues/1
 - Wc3MapWorker https://github.com/rufreakde/Wc3MapWorker/issues/1
   - TypeScript
-- php-mpq https://github.com/Rogiel/php-mpq/issues/1
-  "A PHP library for MPQ reading"
-  - PHP
 - war3mappreviewextractor-php https://github.com/an-zie/war3mappreviewextractor-php/issues/1
   - PHP
 - mpqtools https://github.com/limitedWish/mpqtools/issues/1
