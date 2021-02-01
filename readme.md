@@ -66,6 +66,22 @@ transfers all applicable rights to Blizzard as per the Terms of Service!
     - requires the C++ version of StormLib
 - ghost.js https://github.com/w3gh/ghost.js
   "Try to port Warcraft3 Game Host Ghost++ to js"
+- Wc3MapWorker (MIT) "Wc3MapWorker is a npm package written in
+  TypeScript to enable you to export and import your wc3 map files data
+  easily via ts/js. Used only for the MPQ extraction and creation! If
+  you are looking to extract the content of the extracted files into
+  jason format use WC3MapTranslator instead."
+  - TypeScript
+  - Resolved license issue:
+    https://github.com/rufreakde/Wc3MapWorker/issues/1
+- WC3MapTranslator (MIT) https://github.com/ChiefOfGxBxL/WC3MapTranslator
+  "WC3MapTranslator is a module to convert a JSON representation of
+  WarCraft III (.w3x) data to their war3map files, and vice-versa."
+  - Node.js
+  - TypeScript
+  - License issue:
+    https://github.com/ChiefOfGxBxL/WC3MapTranslator/issues/44
+
 
 ### Rust
 - ceres-mpq (MIT) https://github.com/ceres-wc3/ceres-mpq
@@ -102,7 +118,7 @@ this project to match a different license may be the best way forward.)
 - php-mpq (BSD 2-Clause) https://github.com/Rogiel/php-mpq
   "A PHP library for MPQ reading"
   - PHP
-  - The author added the license 2020-04-03:
+  - Resolved license issue:
     https://github.com/Rogiel/php-mpq/issues/1
 
 ### JASS projects with incompatible functions
@@ -127,8 +143,6 @@ dependencies.)
 
 ## JASS projects with no license
 - Blizzard-Hash-Map https://github.com/chadkila/Blizzard-Hash-Map/issues/1
-- Wc3MapWorker https://github.com/rufreakde/Wc3MapWorker/issues/1
-  - TypeScript
 - war3mappreviewextractor-php https://github.com/an-zie/war3mappreviewextractor-php/issues/1
   - PHP
 - mpqtools https://github.com/limitedWish/mpqtools/issues/1
