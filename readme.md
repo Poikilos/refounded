@@ -48,6 +48,8 @@ transfers all applicable rights to Blizzard as per the Terms of Service!
 
 
 ## Related projects
+- [war3structs](https://github.com/sides/war3structs) "Python construct definitions for Warcraft III file formats"
+  - Includes a Lark-based parses for JASS: [war3structs/plaintext/jass.py](https://github.com/sides/war3structs/blob/master/war3structs/plaintext/jass.py)
 - jass2 (MIT) "Jass2 interpreter for exercise purpose"
 - w3xparser (Apache-2.0)
   - https://github.com/actboy168/w3xparser
