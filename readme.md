@@ -1,4 +1,10 @@
 # refounded
+
+Be aware that using your "maps" (full games) on Warcraft 3: Reforged
+transfers your rights over them to Blizzard as per their ToS!
+Therefore, lets not run them there but instead make code to get your
+w3m/w3x games running on other engines.
+
 This project has been in the planning stage for a long time, but may
 become an engine that runs JASS2, a language that is usually called
 JASS (which is actually the name of the first version of the language).
@@ -14,7 +20,7 @@ unfortunately called "maps" due to the way they were used in
 Warcraft III's online "Custom Maps" system. Some full games include:
 - DoTA "Defense of the Ancients" and many DoTA clones and other tower
   offense games.
-  - DoTA led to DoTA 2 and League of Legends.
+  - DoTA led to DoTA 2 and gameplay seems similar to early versions of League of Legends.
 - Hardcore/survival games (games with detailed gameplay and character
   and world attributes) such as:
   - [Bug Evolution](https://www.epicwar.com/maps/4043/)
@@ -42,9 +48,6 @@ Warcraft III's online "Custom Maps" system. Some full games include:
 - Many clone games, and others:
   [Maps on Epic War sorted by
   rating](https://www.epicwar.com/maps/?order=desc&sort=rating&page=1)
-
-Be aware that using your "maps" (full games) on Warcraft 3: Reforged
-transfers all applicable rights to Blizzard as per the Terms of Service!
 
 
 ## Related projects
